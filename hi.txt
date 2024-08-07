@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-
-=======
 hello world
 welcome
->>>>>>> 2c4f61f33b9961bce04ed09382fc08300e47d179
+hi
+
 
